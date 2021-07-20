@@ -74,9 +74,9 @@ html {
   ); /* textarea,select,code,td,hr border	 */
 
   --background-color: hsl(
-    var(--theme-hue),
-    0%,
-    12%
+    198,
+    90%,
+    6%
   ); /* body background; textarea,select background */
   --background-color-softer: hsl(var(--theme-hue), 0%, 18%);
   --code-background: hsl(var(--theme-hue), 0%, 5%); /* code background*/
