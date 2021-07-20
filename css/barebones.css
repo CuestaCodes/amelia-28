@@ -76,7 +76,7 @@ html {
   --background-color: hsl(
     198,
     90%,
-    6%
+    3%
   ); /* body background; textarea,select background */
   --background-color-softer: hsl(var(--theme-hue), 0%, 18%);
   --code-background: hsl(var(--theme-hue), 0%, 5%); /* code background*/
